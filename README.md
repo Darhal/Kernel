@@ -1,2 +1,2 @@
-# RO-Kernel
+# Arm Kernel
 In-house kernel
